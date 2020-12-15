@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Cinzel:wght@900&display=swap");
+
+.App {
+  font-family: "Cinzel", serif;
+  text-align: center;
+}
+input {
+  width: 10%;
+  padding: 0.5rem;
+  border-color: blue;
+}
+.emoji:hover {
+  background-color: #c4b5fd;
+}
+body {
+  background-color: #fffbeb;
+}
